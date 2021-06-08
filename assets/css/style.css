@@ -1,0 +1,21 @@
+body{
+    background-color: burlywood;
+    padding: 5;
+    margin: auto;
+    border: black;
+}
+.navigation{
+    
+}
+.main_header{
+    display: flex;
+    height: 30ex;
+    width: ;
+}
+nav{
+    border: black;
+    box-sizing: border-box;
+}
+.slider_image{
+    height: 30ex;
+}
